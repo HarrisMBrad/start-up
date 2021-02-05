@@ -4,6 +4,7 @@
   "description": "demo for learning ",
   "main": "index.js",
   "scripts": {
+   
     "build": "browserify script.js > bundle.js && live-server"
   },
   "repository": {
