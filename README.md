@@ -1,8 +1,8 @@
 # demo-start-up
 For demo and generating interest in start-up. 
 
-I propose that this sentence be changed. Change this line to something diff to create conflict. 
-Then resolve conflict...
+Change this line to something diff to create conflict. 
+Then resolve conflict.
 
  # REBASE STEPS
 
