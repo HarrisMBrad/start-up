@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/HarrisMBrad/demo-start-up/issues"
   },
-  "homepage": "https://github.com/HarrisMBrad/demo-start-up#readme"
+  "homepage": "https://github.com/HarrisMBrad/demo-start-up#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
