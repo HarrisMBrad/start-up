@@ -1,0 +1,19 @@
+{
+  "name": "demo-start-up",
+  "version": "1.0.0",
+  "description": "demo for learning ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarrisMBrad/demo-start-up.git"
+  },
+  "author": "Brad Harris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarrisMBrad/demo-start-up/issues"
+  },
+  "homepage": "https://github.com/HarrisMBrad/demo-start-up#readme"
+}
