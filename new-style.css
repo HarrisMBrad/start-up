@@ -2,8 +2,8 @@ body,
 html {
   width: 100%;
   height: 100%;
-  font-family: "Montserrat", sans-serif;
-  background: url(new-header.jpg) no-repeat center center fixed;
+  font-family: 'Montserrat', sans-serif;
+  background: url(new-header.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -12,10 +12,32 @@ html {
 
 h1 {
   font-size: 3rem;
-  color: #f05f44;
+  color:#F05F44;
+  --animate-repeat: 2;
+}
+
+.text-center-col-12 {
+  text-align: center;
+  font-family: 'Oswald', Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  transform: skewY(-10deg);
+  letter-spacing: 4px;
+  word-spacing: -8px;
+  color:#446cf0;
+  text-shadow:
+  1px -1px 0 rgba(235, 106, 106, 0.603),
+  2px -2px 0 rgba(235, 106, 106, 0.603),
+  3px -3px 0 rgba(235, 106, 106, 0.603),
+  4px -4px 0 rgba(235, 106, 106, 0.603),
+  5px -5px 0 firebrick,
+  6px -6px 0 firebrick,
+  7px -7px 0 firebrick,
+  8px -8px 0 firebrick,
+  -30px 20px 40px dimgray;
 }
 
 hr {
+  
   align-content: center;
   align-items: baseline;
 }
@@ -26,24 +48,26 @@ hr {
 
 p {
   font-size: 3rem;
-  color: #446cf0;
+  color:#446cf0;
 }
+
 
 .btn {
   font-weight: 700;
   border-radius: 300px;
   text-transform: uppercase;
+
 }
 
 .btn-primary {
-  color: #f05f44;
-  border-color: #f05f44;
+  color:#F05F44;
+  border-color: #F05F44;
 }
 
 .btn-primary:hover {
   background-color: #c97061;
   border-width: 5px;
-  color: #446cf0;
+  color:#446cf0;
 }
 
 .btn-xl {

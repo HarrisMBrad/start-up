@@ -5,19 +5,19 @@
   "main": "index.js",
   "scripts": {
    
-    "build": "browserify script.js > bundle.js && live-server"
+    "build": "script.js && live-server"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/HarrisMBrad/demo-start-up.git"
   },
   "author": "Brad Harris",
-  "license": "ISC",
+  "license": "",
   "bugs": {
     "url": "https://github.com/HarrisMBrad/demo-start-up/issues"
   },
   "homepage": "https://github.com/HarrisMBrad/demo-start-up#readme",
   "dependencies": {
-    "lodash": "^4.17.20"
+    
   }
 }
