@@ -1,8 +1,10 @@
 # demo-start-up
 For demo and generating interest in start-up. 
 
+
 I will change this line four to say something else...trying an example of how conflicts occur and are resolved. 
 Then engage with the conflict...
+
 
 
  # REBASE STEPS
