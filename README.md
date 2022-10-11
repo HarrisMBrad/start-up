@@ -1,28 +1,22 @@
-# demo-start-up
-For demo and generating interest in start-up. 
+# A plan to run or deploy this app from a home page
 
+- Android app production build from Google Play store once published to store... TBA
+- Maybe .apk reases for local QA Testing in the future, TBA
+- Ongoing debuging and all new features pass QA testing before production push from staging.
+  
+## New Features
 
-I will change this line four to say something else...trying an example of how conflicts occur and are resolved. 
-Then engage with the conflict...
+- Comming Soon
 
+### Use this app to coordinate and navigate Hizenga Park and the new Resturant comming in 2024
 
+- Validate activity
+- Blending, Living and Working in better coordination
+- Prep, and work in progress for the property managment and area under development on 1st Ave. and around Ft. Lauderdale FL 33301
+- Bringing tactices and ideas from other states to deploy to the area downtown where our demographic is largly work from home and shared office spaces for tech workers
+- to reduce the presure and infrustuctural challanges coming in the short term.
+- Improved residential offerings for realestate for  cohesive communitty engagment accross culture norms alrady esablished
+- Improved fundrasing from data gathered from visitors
+- Real time data or actionable information for staff coordination arround coming resturant delivery needs that will be increasing upon opening
 
- # REBASE STEPS
-
-1. commit a change on a file.
-2. commit another change in a diff file here. 
--- that's to set up the scenario --
-
-3. check git status
-4. commit any changes to this READ.md file...or if you are lagging - perform git fetch origin.
-check git status to see any conflicts.
-5. It's okay... don't freak out... perform git merge origin master.
-6. fix conflicts... choose as to which to keep or not. select the best to keep for example. This step involved deleting HEAD============ and whatever you found from the fetch/pull. remove the symbols git created to help us see what is our HEAD and not...
-7. save and check git status again.
-perform git add -A for all or whatever you are adding...
-8. perform git commit -m "message about whatever you fixed to resolve the conflict...
-9. git push.
-
-
-
-
+[Community Home Page](https://example.com/)
