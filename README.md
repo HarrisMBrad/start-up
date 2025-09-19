@@ -38,5 +38,4 @@ In this update, several key changes and enhancements have been made to better re
 
 This extended description provides a comprehensive overview of the new features and the strategic vision for the company's growth and development in the coming year. By implementing these changes, the company aims to create a more integrated, efficient, and community-oriented environment that can adapt to future challenges and opportunities.
 
-[Brad Vizcaya 1](https://poe.com/BradVizcaya1), 
-[Bradly A.I](https://poe.com/bradly.AI)
+
